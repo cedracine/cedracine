@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Bannière OG / Social Preview -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cedracine/cedracine/main/banner.png" alt="cedracine - indie developer" width="100%" style="max-width: 1200px; border-radius: 8px;">
+  <img src="https://raw.githubusercontent.com/cedracine/cedracine/refs/heads/main/banner.jpg" alt="cedracine - indie developer" width="100%" style="max-width: 1200px; border-radius: 8px;">
 </p>
 
 <br>
