@@ -8,7 +8,7 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="cedracine - Overview">
 <meta property="og:description" content="cedracine has 4 repositories available. Follow their code on GitHub.">
-<meta property="og:image" content="https://github.com/cedracine/cedracine/raw/main/.github/banner.png">
+<meta property="og:image" content="https://github.com/cedracine/cedracine/blob/main/banner.png">
 
 <!-- Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
@@ -16,7 +16,7 @@
 <meta property="twitter:url" content="https://github.com/cedracine">
 <meta name="twitter:title" content="cedracine - Overview">
 <meta name="twitter:description" content="cedracine has 4 repositories available. Follow their code on GitHub.">
-<meta name="twitter:image" content="https://github.com/cedracine/cedracine/raw/main/.github/banner.png">
+<meta name="twitter:image" content="https://github.com/cedracine/cedracine/blob/main/banner.png">
 
 ![cedracine banner](.github/banner.png)
 
