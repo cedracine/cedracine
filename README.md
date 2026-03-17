@@ -1,12 +1,5 @@
 <div align="center">
-<!-- Bannière OG / Social Preview -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cedracine/cedracine/refs/heads/main/banner.jpg" alt="cedracine - indie developer" width="100%" style="max-width: 1200px; border-radius: 8px;">
-</p>
 
-<br>
-
-**indie developer · free tools · PWA · vanilla JS**
 
 I build free, open, multilingual web apps — no ads, no tracking, no paywalls.  
 Everything runs in the browser, works offline, and installs as a PWA.
