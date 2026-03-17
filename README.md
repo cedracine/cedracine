@@ -1,32 +1,16 @@
 <div align="center">
 
+![cedracine banner](.github/banner.png)
+
+**indie developer · free tools · PWA · vanilla JS**
 
 I build free, open, multilingual web apps — no ads, no tracking, no paywalls.  
 Everything runs in the browser, works offline, and installs as a PWA.
-```                                                                                   
-                                                                                    
-  ░██████                    ░██ ░█████████                        ░██                      
- ░██   ░██                   ░██ ░██     ░██                                                
-░██         ░███████   ░████████ ░██     ░██  ░██████    ░███████  ░██░████████   ░███████  
-░██        ░██    ░██ ░██    ░██ ░█████████        ░██  ░██    ░██ ░██░██    ░██ ░██    ░██ 
-░██        ░█████████ ░██    ░██ ░██   ░██    ░███████  ░██        ░██░██    ░██ ░█████████ 
- ░██   ░██ ░██        ░██   ░███ ░██    ░██  ░██   ░██  ░██    ░██ ░██░██    ░██ ░██        
-  ░██████   ░███████   ░█████░██ ░██     ░██  ░█████░██  ░███████  ░██░██    ░██  ░███████  
-                                                                                            
-                                            
-```
-
-**indie developer · free tools · PWA · vanilla JS**
 
 [![Website](https://img.shields.io/badge/cedracine.com-1a1a1a?style=flat-square&logo=safari&logoColor=white)](https://cedracine.com)
 [![Donate](https://img.shields.io/badge/donate-support_my_work-2d6a4f?style=flat-square)](https://donate.cedracine.com)
 
 </div>
-
----
-
-I build free, open, multilingual web apps — no ads, no tracking, no paywalls.  
-Everything runs in the browser, works offline, and installs as a PWA.
 
 ---
 
